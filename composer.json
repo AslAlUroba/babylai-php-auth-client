@@ -1,0 +1,21 @@
+{
+    "name": "aslaluroba/babylai_php_auth_client",
+    "description": "A simple PHP client for BabylAI Auth API (get client token)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AAU",
+            "email": "info@aau.iq"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.8 || ^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "BabylAI\\": "src/"
+        }
+    }
+}
