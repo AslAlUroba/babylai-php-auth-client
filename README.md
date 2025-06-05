@@ -342,4 +342,4 @@ We use semantic versioning (v1.0.0, v1.1.0, etc.). Tag new releases accordingly.
 
 ## License
 
-This package is released under the MIT License. Feel free to use, modify, or distribute as you wish.
+AAU
