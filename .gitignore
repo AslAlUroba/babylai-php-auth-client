@@ -1,0 +1,55 @@
+# Composer dependencies
+/vendor/
+composer.lock
+
+# PHP CS Fixer cache
+/.php-cs-fixer.cache
+/.php_cs.cache
+
+# PHPUnit
+/phpunit.xml
+/.phpunit.result.cache
+/coverage/
+
+# IDE files
+/.idea/
+/.vscode/
+/.phpintel/
+/.fleet/
+.project
+.buildpath
+.settings/
+
+# Environment files
+/.env
+/.env.local
+/.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+/build/
+/dist/
+
+# Logs
+/logs/
+*.log
+/log/
+
+# Cache
+/cache/
+
+# Temporary files
+/tmp/
+/temp/
+
+# Package specific backup files
+*.bak
+*.swp
+*~
+
+# Allow keeping empty directories with .gitkeep
+!/**/.gitkeep
