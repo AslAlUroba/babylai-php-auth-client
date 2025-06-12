@@ -277,7 +277,6 @@ Below is a minimal Laravel 12 example showing how to create an endpoint `/api/To
    If you have the Symfony CLI installed, in a new terminal:
 
    ```bash
-   cd C:/Users/Ahmed/Desktop/babylai-laravel-app
    symfony server:start --port=7075
    ```
 
